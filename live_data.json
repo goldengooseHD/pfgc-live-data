@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-07T20:10:06.118136+00:00",
-  "market_status": "after_hours",
+  "updated_at": "2026-04-08T13:01:27.870496+00:00",
+  "market_status": "pre_market",
   "pfgc": {
-    "price": 84.15,
-    "change": -1.82,
-    "change_pct": -2.12,
-    "market_cap": 13219878410.0,
-    "pe": 38.08,
+    "price": 84.17,
+    "change": -1.8,
+    "change_pct": -2.09,
+    "market_cap": 13223020389.0,
+    "pe": 38.09,
     "eps": 2.21,
-    "volume": 1426547,
+    "volume": 1827402,
     "avg_volume": 2311791,
     "day_low": 83.5,
     "day_high": 86.0,
@@ -16,20 +16,20 @@
     "year_high": 109.05,
     "prev_close": 85.97,
     "open": 85.63,
-    "market_status": "after_hours",
+    "market_status": "pre_market",
     "base_target": 72.5,
-    "base_return_pct": -13.8,
+    "base_return_pct": -13.9,
     "bear_target": 57.6,
     "bear_return_pct": -31.6,
     "bull_target": 98.0,
-    "bull_return_pct": 16.5
+    "bull_return_pct": 16.4
   },
   "usfd": {
     "price": 89.36,
-    "change": -1.54,
+    "change": -1.55,
     "change_pct": -1.7,
-    "market_cap": 19923159641.0,
-    "pe": 30.4,
+    "market_cap": 19922044934.0,
+    "pe": 30.39,
     "eps": 2.94,
     "volume": 980487,
     "avg_volume": 2879260,
@@ -39,30 +39,30 @@
     "year_high": 102.13,
     "prev_close": 90.91,
     "open": 90.55,
-    "market_status": "after_hours"
+    "market_status": "pre_market"
   },
   "syy": {
-    "price": 73.26,
-    "change": 0.02,
-    "change_pct": 0.03,
-    "market_cap": 35086459492.0,
-    "pe": 19.75,
+    "price": 73.24,
+    "change": 0.0,
+    "change_pct": 0.0,
+    "market_cap": 35076880879.0,
+    "pe": 19.74,
     "eps": 3.71,
-    "volume": 3842216,
+    "volume": 4895106,
     "avg_volume": 4570238,
-    "day_low": 71.99,
+    "day_low": 72.03,
     "day_high": 73.88,
     "year_low": 67.12,
     "year_high": 91.85,
     "prev_close": 73.24,
     "open": 72.57,
-    "market_status": "after_hours"
+    "market_status": "pre_market"
   },
   "peer_pe_spread": {
-    "pfgc_pe": 38.08,
-    "usfd_pe": 30.4,
-    "syy_pe": 19.75,
+    "pfgc_pe": 38.09,
+    "usfd_pe": 30.39,
+    "syy_pe": 19.74,
     "pfgc_premium_to_usfd_pct": 25.3,
-    "pfgc_premium_to_syy_pct": 92.8
+    "pfgc_premium_to_syy_pct": 93.0
   }
 }

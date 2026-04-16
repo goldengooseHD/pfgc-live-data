@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-04-16T15:03:09.099624+00:00",
+  "updated_at": "2026-04-16T17:02:23.797744+00:00",
   "market_status": "open",
   "pfgc": {
-    "price": 88.28,
-    "change": -0.58,
-    "change_pct": -0.66,
-    "market_cap": 13867911665.0,
-    "pe": 39.94,
+    "price": 88.32,
+    "change": -0.54,
+    "change_pct": -0.61,
+    "market_cap": 13874981119.0,
+    "pe": 39.96,
     "eps": 2.21,
-    "volume": 136532,
+    "volume": 328560,
     "avg_volume": 2216916,
-    "day_low": 87.95,
+    "day_low": 87.86,
     "day_high": 89.42,
     "year_low": 74.33,
     "year_high": 109.05,
@@ -25,15 +25,15 @@
     "bull_return_pct": 11.0
   },
   "usfd": {
-    "price": 89.42,
-    "change": -0.8,
-    "change_pct": -0.88,
-    "market_cap": 19719763132.0,
-    "pe": 30.41,
+    "price": 89.11,
+    "change": -1.1,
+    "change_pct": -1.22,
+    "market_cap": 19652497620.0,
+    "pe": 30.31,
     "eps": 2.94,
-    "volume": 373293,
+    "volume": 763418,
     "avg_volume": 2788938,
-    "day_low": 89.09,
+    "day_low": 88.86,
     "day_high": 90.95,
     "year_low": 60.46,
     "year_high": 102.13,
@@ -42,13 +42,13 @@
     "market_status": "open"
   },
   "syy": {
-    "price": 73.76,
-    "change": -0.33,
-    "change_pct": -0.45,
-    "market_cap": 35325926736.0,
-    "pe": 19.88,
+    "price": 73.83,
+    "change": -0.26,
+    "change_pct": -0.35,
+    "market_cap": 35359451883.0,
+    "pe": 19.9,
     "eps": 3.71,
-    "volume": 1105621,
+    "volume": 2284528,
     "avg_volume": 4848731,
     "day_low": 73.05,
     "day_high": 74.6,
@@ -59,10 +59,10 @@
     "market_status": "open"
   },
   "peer_pe_spread": {
-    "pfgc_pe": 39.94,
-    "usfd_pe": 30.41,
-    "syy_pe": 19.88,
-    "pfgc_premium_to_usfd_pct": 31.3,
-    "pfgc_premium_to_syy_pct": 100.9
+    "pfgc_pe": 39.96,
+    "usfd_pe": 30.31,
+    "syy_pe": 19.9,
+    "pfgc_premium_to_usfd_pct": 31.8,
+    "pfgc_premium_to_syy_pct": 100.8
   }
 }
